@@ -26,3 +26,7 @@ replay_pid*
 # intelij idea files
 .idea/
 *.iml
+
+# sample files directory
+src/main/java/org/
+src/test/java/org/
