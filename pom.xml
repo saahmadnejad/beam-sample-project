@@ -21,7 +21,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ir.donbee.beam</groupId>
-  <artifactId>word-count-beam</artifactId>
+  <artifactId>beam-sample-project</artifactId>
   <version>0.1</version>
 
   <packaging>jar</packaging>
